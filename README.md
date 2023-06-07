@@ -12,7 +12,7 @@ $ python ip.py
 $ bash amazon.sh
 $ perl range.pl
 ```
-
+you can use python 2 and python 3 for this setup<br>
 script ada yang ambil sendiri dan ada yang di pake orang akwokwokwo <br>
 thanks to : <br>
 SinonX<br>
