@@ -1,4 +1,5 @@
 <?php
+ini_set('memory_limit', '8192M'); //you can input your memory limit here (adjust to the ram you have)
 
 if (!file_exists('pecah')) {
     mkdir('pecah', 0777, true);
